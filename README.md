@@ -12,3 +12,5 @@
 11. Start e2e testing in Edge
 12. Double click to testTaskSpec
 13. Thats all!
+
+ps: For your convinience I recorded tesk task video in file testTaskSpec.cy.js.mp4
